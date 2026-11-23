@@ -35,8 +35,8 @@ I'm following Jeremy's IT Lab CCNA course (126 videos, 63 study sessions, 2 vide
 | Session | Date | Topic | Lab | Status |
 |---|---|---|---|---|
 | S1 | Sun 22 Nov 2026 | Network devices | New York-Tokyo LAN: interfaces up | Done |
-| S2 | Mon 23 Nov 2026 | Packet Tracer intro, interfaces and cables | | Planned |
-
+| S2 | Mon 23 Nov 2026 | Interfaces and cables (UTP, fibre, straight-through vs crossover) | Cabling lab | Done |
+| S3 | Tue 24 Nov 2026 | Connecting devices lab, TCP/IP model | | Planned |
 ## Personal targets
 - At least 80% in weekly assessments
 - At least 85% in final mock exams
